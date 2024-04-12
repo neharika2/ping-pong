@@ -1,0 +1,21 @@
+.heading{
+    width:100%;
+    text-align: left;
+}
+.heading button{
+    float:right;
+    border:1px solid white;
+}
+.heading h3{
+    display:inline;
+}
+.modal-dialog{
+    width:90%;
+}   
+h4{
+    background-color: aliceblue;
+    color: #000;
+    margin-bottom:0px;
+    line-height:2;
+    position: initial;
+}
